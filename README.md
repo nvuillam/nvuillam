@@ -2,6 +2,8 @@
 
 I love to teach what I know and to learn what I don't :)
 
+> The only stupid questions are the ones you're too shy or too proud to ask :)
+
 | <!-- -->   | <!-- -->   | <!-- -->   |
 |--|--|--|
 | [npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint)| Groovy linter, formatter and auto-fixer |[![Version](https://img.shields.io/npm/v/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint) [![Downloads/total](https://img.shields.io/npm/dt/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint) [![Docker Pulls](https://img.shields.io/docker/pulls/nvuillam/npm-groovy-lint)](https://hub.docker.com/r/nvuillam/npm-groovy-lint) [![CircleCI](https://circleci.com/gh/nvuillam/npm-groovy-lint/tree/master.svg?style=shield)](https://circleci.com/gh/nvuillam/npm-groovy-lint/tree/master)|
