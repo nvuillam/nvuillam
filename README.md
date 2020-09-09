@@ -2,7 +2,7 @@
 
 I love to teach what I know and to learn what I don't :)
 
-> The only stupid questions are the ones you're too shy or too proud to ask :)
+> The only stupid questions are the ones you're too shy or too proud to ask
 
 | <!-- -->   | <!-- -->   | <!-- -->   |
 |--|--|--|
