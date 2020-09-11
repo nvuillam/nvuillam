@@ -13,4 +13,6 @@ I love to teach what I know and to learn what I don't :)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
 
+[![Stackexchange profile](https://stackexchange.com/users/flair/8652527.png)](https://stackexchange.com/users/8652527)
+
 ![](https://komarev.com/ghpvc/?username=nvuillam&color=green)
