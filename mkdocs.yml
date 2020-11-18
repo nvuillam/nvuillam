@@ -27,26 +27,15 @@ extra_css:
   - stylesheets/extra.css
 extra:
   social:
-    - icon: fontawesome/regular/question-circle
-      link: https://github.com/nvuillam/npm-groovy-lint/issues
-      title: Need help ? Post an issue :)
+    - icon: fontawesome/regular/linkedin
+      link: https://www.linkedin.com/in/nicolas-vuillamy
     - icon: fontawesome/brands/github
-      link: https://github.com/nvuillam/npm-groovy-lint
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/nvuillam/npm-groovy-lint
+      link: https://github.com/nvuillam
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/nvuillam
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/nvuillam
+
   generator: false
 nav:
   - "Home": "index.md"
-  - "Usage": "./#usage"
-  - "Installation": "./#installation"
-  - "Configuration": "./#configuration"
-  - "Examples": "./#example-calls"
-  - "Disabling rules in source": "./#disabling-rules-in-source"
-  - "Auto-fixable rules": "./#auto-fixable-rules"
-  - "CD/CI": "./#cdci"
-  - "Use as module": "./#use-as-module"
-  - "Contribute": "./#contribute"
-  - "Thanks": "./#thanks"
-  - "Release notes": "./#release-notes"
