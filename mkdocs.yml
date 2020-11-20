@@ -27,7 +27,7 @@ extra_css:
   - stylesheets/extra.css
 extra:
   social:
-    - icon: fontawesome/regular/linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nicolas-vuillamy
     - icon: fontawesome/brands/github
       link: https://github.com/nvuillam
