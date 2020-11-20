@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 MD041 -->
 ### Nicolas Vuillamy
 
 I love to teach what I know and to learn what I don't :)
@@ -17,4 +17,4 @@ I love to teach what I know and to learn what I don't :)
 
 [![Stackexchange profile](https://stackexchange.com/users/flair/8652527.png)](https://stackexchange.com/users/8652527)
 
-![](https://komarev.com/ghpvc/?username=nvuillam&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=nvuillam&color=green)
