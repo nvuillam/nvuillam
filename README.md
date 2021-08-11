@@ -13,7 +13,9 @@ I love to teach what I know and to learn what I don't :)
 | [sfdx-essentials](https://github.com/nvuillam/sfdx-essentials)| Toolbox to ease the use of Salesforce DX for development and deployment |[![Version](https://img.shields.io/npm/v/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials) [![Downloads/total](https://img.shields.io/npm/dt/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)<br/> [![Mega-Linter](https://github.com/nvuillam/sfdx-essentials/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme) |
 | [java-caller](https://github.com/nvuillam/node-java-caller)|Library to easily deliver and execute java applications using node/npm |[![Version](https://img.shields.io/npm/v/java-caller.svg)](https://npmjs.org/package/java-caller) [![Downloads/total](https://img.shields.io/npm/dt/java-caller.svg)](https://npmjs.org/package/java-caller)<br/> [![Mega-Linter](https://github.com/nvuillam/node-java-caller/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme) |
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
+![nvuillam's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
+
+![nvuillam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvuillam&langs_count=8&theme=radical&layout=compact&card_width=445)
 
 [![Stackexchange profile](https://stackexchange.com/users/flair/8652527.png)](https://stackexchange.com/users/8652527)
 
