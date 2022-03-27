@@ -2,7 +2,9 @@
 
 ## Who am I
 
-CTO and architect during the day for [Hardis Group](https://www.hardis-group.com/), and Open-Sourcerer during nights and week-ends
+CTO and architect during the day for [Hardis Group](https://www.hardis-group.com/), and [Open-Sourcerer](#open-source-projects) during nights and week-ends
+
+Also [writer on Medium](#latest-articles) from time to time
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
 
