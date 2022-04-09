@@ -163,7 +163,8 @@ Utility to easily format markdown tables in files
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/4" alt="Recent Article 4">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/5" alt="Recent Article 5">
-  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/6" alt="Recent Article 6">  
 ## Some stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nvuillam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
