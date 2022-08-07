@@ -19,6 +19,8 @@ You can follow me and contact me on:
 - [StackExchange](https://stackexchange.com/users/8652527)
 - [Twitter](https://twitter.com/NicolasVuillamy)
 
+To support my open-source work, you can **star my repositorie**s, **follow me on github** or even [**sponsor me**](https://github.com/sponsors/nvuillam) :)
+
 ## Open-source projects
 
 ### Mega-Linter
