@@ -23,7 +23,7 @@ To support my open-source work, you can **star my repositorie**s, **follow me on
 
 ## Open-source projects
 
-### Mega-Linter
+### [MegaLinter](https://github.com/oxsecurity/megalinter)
 
 ![GitHub release](https://img.shields.io/github/v/release/megalinter/megalinter?sort=semver)
 [![Docker Pulls](https://img.shields.io/badge/docker%20pulls-3.1M-blue)](https://megalinter.github.io/flavors/)
@@ -34,11 +34,11 @@ To support my open-source work, you can **star my repositorie**s, **follow me on
 Analyzes [**37 languages**](https://nvuillam.github.io/mega-linter/#languages), [**12 formats**](https://nvuillam.github.io/mega-linter/#formats), [**16 tooling formats**](https://nvuillam.github.io/mega-linter/#tooling-formats) , [**copy-pastes**](https://nvuillam.github.io/mega-linter/#other) and [**spell**](https://nvuillam.github.io/mega-linter/#other) in your repository sources, generate **reports in several formats**, and can even [**apply auto-fixes**](https://nvuillam.github.io/mega-linter/#apply-fixes#apply-fixes) with **auto-generated commit or PR**, to ensure all your projects are clean, whatever IDE/toolbox are used by their developers !
 
 - Online documentation: <https://nvuillam.github.io/mega-linter/>
-- Repository: <https://github.com/nvuillam/mega-linter/>
+- Repository: https://github.com/oxsecurity/megalinter
 
 ---
 
-### npm-groovy-lint
+### [npm-groovy-lint](https://nvuillam.github.io/npm-groovy-lint/)
 
 [![Version](https://img.shields.io/npm/v/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
 [![Downloads/week](https://img.shields.io/npm/dw/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
@@ -54,7 +54,7 @@ Groovy linter, formatter and auto-fixer
 
 ---
 
-### vscode-groovy-lint
+### [vscode-groovy-lint](https://github.com/nvuillam/vscode-groovy-lint/)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/NicolasVuillamy.vscode-groovy-lint.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/NicolasVuillamy.vscode-groovy-lint.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
@@ -68,7 +68,7 @@ Groovy linter, formatter and auto-fixer
 
 ---
 
-### sfdx-hardis
+### [sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis)
 
 [![Version](https://img.shields.io/npm/v/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis)
 [![Downloads/week](https://img.shields.io/npm/dw/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis)
@@ -85,7 +85,7 @@ Salesforce DX plugin with lots of useful commands
 
 ---
 
-### vscode-sfdx-hardis
+### [vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/NicolasVuillamy.vscode-sfdx-hardis.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/NicolasVuillamy.vscode-sfdx-hardis.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
@@ -98,7 +98,7 @@ Salesforce DX plugin with lots of useful commands
 
 ---
 
-### sfdx-essentials
+### [sfdx-essentials](https://github.com/nvuillam/sfdx-essentials/)
 
 [![Version](https://img.shields.io/npm/v/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
 [![Downloads/week](https://img.shields.io/npm/dw/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
@@ -112,7 +112,7 @@ Toolbox to ease the use of Salesforce DX for development and deployment
 
 ---
 
-### java-caller
+### [java-caller](https://github.com/nvuillam/node_java_caller/)
 
 [![Version](https://img.shields.io/npm/v/java-caller.svg)](https://www.npmjs.com/package/java-caller)
 [![Downloads/week](https://img.shields.io/npm/dw/java-caller.svg)](https://npmjs.org/package/java-caller)
@@ -126,7 +126,7 @@ Library to easily deliver and execute java applications using node/npm
 
 ---
 
-### node-sarif-builder
+### [node-sarif-builder](https://github.com/nvuillam/node-sarif-builder)
 
 [![Version](https://img.shields.io/npm/v/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder)
 [![Downloads/week](https://img.shields.io/npm/dw/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder)
@@ -140,7 +140,7 @@ Module to easily build SARIF logs within a javascript / typescript application
 
 ---
 
-### markdown-table-formatter
+### [markdown-table-formatter](https://github.com/nvuillam/markdown-table-formatter)
 
 [![Version](https://img.shields.io/npm/v/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
 [![Downloads/week](https://img.shields.io/npm/dw/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
@@ -151,6 +151,18 @@ Module to easily build SARIF logs within a javascript / typescript application
 Utility to easily format markdown tables in files
 
 - Repository: https://github.com/nvuillam/markdown-table-formatter
+
+### [github-dependents-info](https://github.com/nvuillam/github-dependents-info/)
+
+[![PyPI](https://img.shields.io/pypi/v/github-dependents-info)](https://pypi.org/project/github-dependents-info/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/github-dependents-info)](https://pypi.org/project/github-dependents-info/)
+[![Build status](https://github.com/nvuillam/github-dependents-info/workflows/build/badge.svg?branch=main&event=push)](https://github.com/nvuillam/github-dependents-info/actions?query=workflow%3Abuild)
+[![MegaLinter](https://github.com/nvuillam/github-dependents-info/workflows/MegaLinter/badge.svg?branch=main)](https://oxsecurity.github.io/megalinter)
+[![License](https://img.shields.io/github/license/nvuillam/github-dependents-info)](https://github.com/nvuillam/github-dependents-info/blob/master/LICENSE)
+
+Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
+
+- Repository: https://github.com/nvuillam/github-dependents-info/
 
 ## Latest articles
 
