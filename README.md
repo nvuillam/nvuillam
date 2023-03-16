@@ -2,7 +2,7 @@
 
 ## Who am I
 
-CTO and architect during the day for [Hardis Group](https://www.hardis-group.com/), and [Open-Sourcerer](#open-source-projects) during nights and week-ends
+CTO and architect during the day at [Cloudity](https://www.cloudity.com/), and [Open-Sourcerer](#open-source-projects) during nights and week-ends
 
 Also [writer on Medium](#latest-articles) from time to time
 
