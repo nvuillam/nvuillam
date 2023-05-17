@@ -1,5 +1,7 @@
 # Nicolas Vuillamy
 
+[![committers.top badge](https://user-badge.committers.top/france_public/nvuillam.svg)](https://user-badge.committers.top/france_public/nvuillam)
+
 ## Who am I
 
 CTO and architect during the day at [Cloudity](https://www.cloudity.com/), and [Open-Sourcerer](#open-source-projects) during nights and week-ends
