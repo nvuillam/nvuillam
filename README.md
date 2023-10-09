@@ -1,14 +1,19 @@
 # Nicolas Vuillamy
 
-[![committers.top badge](https://user-badge.committers.top/france_public/nvuillam.svg)](https://user-badge.committers.top/france_public/nvuillam)
+  * [Who am I](#who-am-i)
+  * [Open-source projects](#open-source-projects)
+  * [Latest articles](#latest-articles)
+  * [Speaker activities](#speaker-activities)
+  * [Webinars & Podcasts](#webinars---podcasts)
+  * [Some stats](#some-stats)
 
 ## Who am I
 
-CTO and architect during the day at [Cloudity](https://www.cloudity.com/), and [Open-Sourcerer](#open-source-projects) during nights and week-ends
-
-Also [writer on Medium](#latest-articles) from time to time
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
+- CTO during the day at [Cloudity](https://www.cloudity.com/)
+- [Open-Sourcerer](#open-source-projects) during nights and week-ends (and also sometimes during the day thanks to Cloudity's [sfdx-hardis initiative](https://sfdx-hardis.cloudity.com/) !)
+- Sometimes [Writer on Medium](#latest-articles) from time to time
+- Sometimes [Speaker](#speaker-activities) in Salesforce and Open-Source worlds
+- Sometimes participant to [Webinars & Podcasts](#webinars---podcasts)
 
 I love to teach what I know and to learn what I don't :)
 
@@ -16,10 +21,10 @@ I love to teach what I know and to learn what I don't :)
 
 You can follow me and contact me on:
 
-- [LinkedIn](https://www.linkedin.com/in/nicolas-vuillamy)
-- [Medium](https://nicolas.vuillamy.fr/)
-- [StackExchange](https://stackexchange.com/users/8652527)
-- [Twitter](https://twitter.com/NicolasVuillamy)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vuillamy)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicolas.vuillamy.fr/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NicolasVuillamy)
+[![Stackexchange profile](https://stackexchange.com/users/flair/8652527.png)](https://stackexchange.com/users/8652527)
 
 To support my open-source work, you can **star my repositorie**s, **follow me on github** or even [**sponsor me**](https://github.com/sponsors/nvuillam) :)
 
@@ -37,36 +42,6 @@ Analyzes [**37 languages**](https://nvuillam.github.io/mega-linter/#languages), 
 
 - Online documentation: <https://nvuillam.github.io/mega-linter/>
 - Repository: https://github.com/oxsecurity/megalinter
-
----
-
-### [npm-groovy-lint](https://nvuillam.github.io/npm-groovy-lint/)
-
-[![Version](https://img.shields.io/npm/v/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
-[![Downloads/week](https://img.shields.io/npm/dw/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
-[![Downloads/total](https://img.shields.io/npm/dt/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
-[![Mega-Linter](https://github.com/nvuillam/npm-groovy-lint/workflows/Mega-Linter/badge.svg?branch=master)](https://nvuillam.github.io/mega-linter)
-[![GitHub stars](https://img.shields.io/github/stars/nvuillam/npm-groovy-lint?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/npm-groovy-lint/stargazers/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nvuillam/npm-groovy-lint)](https://hub.docker.com/r/nvuillam/npm-groovy-lint)
-
-Groovy linter, formatter and auto-fixer
-
-- Online documentation: <https://nvuillam.github.io/npm-groovy-lint/>
-- Repository: <https://github.com/nvuillam/npm-groovy-lint/>
-
----
-
-### [vscode-groovy-lint](https://github.com/nvuillam/vscode-groovy-lint/)
-
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
-[![Mega-Linter](https://github.com/nvuillam/vscode-groovy-lint/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
-[![GitHub stars](https://img.shields.io/github/stars/nvuillam/vscode-groovy-lint.png?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/vscode-groovy-lint/stargazers/)
-
-[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) embedding npm-groovy-lint
-
-- Online documentation: <https://nvuillam.github.io/vscode-groovy-lint/>
-- Repository: <https://github.com/nvuillam/vscode-groovy-lint/>
 
 ---
 
@@ -97,6 +72,36 @@ Salesforce DX plugin with lots of useful commands
 [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) embedding sfdx-hardis but also other plugins
 
 - Repository: <https://github.com/hardisgroupcom/vscode-sfdx-hardis>
+
+---
+
+### [npm-groovy-lint](https://nvuillam.github.io/npm-groovy-lint/)
+
+[![Version](https://img.shields.io/npm/v/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
+[![Downloads/week](https://img.shields.io/npm/dw/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
+[![Downloads/total](https://img.shields.io/npm/dt/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint)
+[![Mega-Linter](https://github.com/nvuillam/npm-groovy-lint/workflows/Mega-Linter/badge.svg?branch=master)](https://nvuillam.github.io/mega-linter)
+[![GitHub stars](https://img.shields.io/github/stars/nvuillam/npm-groovy-lint?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/npm-groovy-lint/stargazers/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nvuillam/npm-groovy-lint)](https://hub.docker.com/r/nvuillam/npm-groovy-lint)
+
+Groovy linter, formatter and auto-fixer
+
+- Online documentation: <https://nvuillam.github.io/npm-groovy-lint/>
+- Repository: <https://github.com/nvuillam/npm-groovy-lint/>
+
+---
+
+### [vscode-groovy-lint](https://github.com/nvuillam/vscode-groovy-lint/)
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
+[![Mega-Linter](https://github.com/nvuillam/vscode-groovy-lint/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
+[![GitHub stars](https://img.shields.io/github/stars/nvuillam/vscode-groovy-lint.png?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/vscode-groovy-lint/stargazers/)
+
+[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) embedding npm-groovy-lint
+
+- Online documentation: <https://nvuillam.github.io/vscode-groovy-lint/>
+- Repository: <https://github.com/nvuillam/vscode-groovy-lint/>
 
 ---
 
@@ -182,7 +187,52 @@ Collect information about dependencies between a github repo and other repositor
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/5" alt="Recent Article 5">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/6" alt="Recent Article 6">  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/7" alt="Recent Article 7">  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/8" alt="Recent Article 8">  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9" alt="Recent Article 9">  
+
+## Speaker activities
+
+- Dreamforce 2023, San Francisco: [_**Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl), with Jean-Pierre Rizzi
+
+[![Video](https://img.youtube.com/vi/o0Mm9F07UFs/0.jpg)](https://www.youtube.com/watch?v=o0Mm9F07UFs)
+
+- Dreamforce 2023, San Francisco: [_**Build Innovative Tools With CLI Plug-Ins, the sf Way**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389689001O7uD), with Andres Catalan and Shane Mc Laughlin
+
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/8756b4fc-3796-4aa3-a165-e435b58e51cf)](https://www.linkedin.com/posts/nicolas-vuillamy_how-to-install-sfdx-hardis-for-an-enhanced-activity-7114908492812963840-mQR0?utm_source=share&utm_medium=member_desktop)
+
+- Yeur Dreamin' 2023, Brussels: _**An easy and complete Salesforce CI/CD release management with open-source only !**_, with Angélique Picoreau
+
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/6470df20-7449-444b-a0a5-7dc22f5f6188)](https://www.linkedin.com/posts/nicolas-vuillamy_cicd-opensource-trailblazercommunity-activity-7076859027321704448-F1g-?utm_source=share&utm_medium=member_desktop)
+
+- French Touch Dreamin' 2022, Paris: _**Simplify your trailblazer life with open source**_
+
+[![Video](https://img.youtube.com/vi/WE46LL6kRBY/0.jpg)](https://www.youtube.com/watch?v=WE46LL6kRBY)
+
+## Webinars & Podcasts
+
+- SalesforceBen, 2023: _**Ask Us Anything - Salesforce DevOps & CI/CD**_
+
+[![Video](https://img.youtube.com/vi/1UTUzMfHzI/0.jpg)](https://www.youtube.com/watch?v=1UTUzMfHzI)
+
+- Salesforce Developers Podcast, by Josh Birk, 2023: [_**Episode 182: SFDX-Hardis with Nicolas Vuillamy**_](https://developer.salesforce.com/podcast/2023/06/sfdx)
+
+- Cloudity Webinar, 2023: _**Fluidifier le parcours des assureurs avec Profideo**_ , avec Guillaume Hedon
+
+[![Video](https://img.youtube.com/vi/tR_DzQQ3XTk/0.jpg)](https://www.youtube.com/watch?v=tR_DzQQ3XTk)
+
+- SalesforceDevOps.net, by Vernon Keenan, 2023: _**SFDX-HARDIS – A demo with Nicolas Vuillamy from Cloudity**_
+
+[![Video](https://img.youtube.com/vi/qP6MaZUGzik/0.jpg)](https://www.youtube.com/watch?v=qP6MaZUGzik)
+
 ## Some stats
+
+[![committers.top badge](https://user-badge.committers.top/france_public/nvuillam.svg)](https://user-badge.committers.top/france_public/nvuillam)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nvuillam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
   
