@@ -15,9 +15,9 @@
 - Sometimes [**Speaker**](#speaker-activities)
 - Sometimes participant to [**Webinars & Podcasts**](#webinars---podcasts)
 
-> I love to teach what I know and to learn what I don't :)
+> I love to teach what I know and to learn what I don't know :)
 
-> The only stupid questions are the ones you're too shy or too proud to ask
+> The only stupid questions are the ones you're too shy or too proud to ask !
 
 You can follow and contact me on:
 
