@@ -15,11 +15,11 @@
 - Sometimes [**Speaker**](#speaker-activities)
 - Sometimes participant to [**Webinars & Podcasts**](#webinars---podcasts)
 
-I love to teach what I know and to learn what I don't :)
+> I love to teach what I know and to learn what I don't :)
 
 > The only stupid questions are the ones you're too shy or too proud to ask
 
-You can follow me and contact me on:
+You can follow and contact me on:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vuillamy)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicolas.vuillamy.fr/)
