@@ -216,7 +216,7 @@ Collect information about dependencies between a github repo and other repositor
 
 - SalesforceBen, 2023: _**Ask Us Anything - Salesforce DevOps & CI/CD**_
 
-[![Video](https://img.youtube.com/vi/1UTUzMfHzI/0.jpg)](https://www.youtube.com/watch?v=1UTUzMfHzI)
+[![Video](https://img.youtube.com/vi/-1UTUzMfHzI/0.jpg)](https://www.youtube.com/watch?v=-1UTUzMfHzI)
 
 - Salesforce Developers Podcast, by Josh Birk, 2023: [_**Episode 182: SFDX-Hardis with Nicolas Vuillamy**_](https://developer.salesforce.com/podcast/2023/06/sfdx)
 
