@@ -4,7 +4,7 @@
   * [Open-source projects](#open-source-projects)
   * [Latest articles](#latest-articles)
   * [Speaker activities](#speaker-activities)
-  * [Webinars & Podcasts](#webinars---podcasts)
+  * [Webinars & Podcasts](#webinars--podcasts)
   * [Some stats](#some-stats)
 
 ## Who am I
