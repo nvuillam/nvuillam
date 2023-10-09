@@ -9,11 +9,11 @@
 
 ## Who am I
 
-- CTO during the day at [Cloudity](https://www.cloudity.com/)
-- [Open-Sourcerer](#open-source-projects) during nights and week-ends (and also sometimes during the day thanks to Cloudity's [sfdx-hardis initiative](https://sfdx-hardis.cloudity.com/) !)
-- Sometimes [Writer on Medium](#latest-articles) from time to time
-- Sometimes [Speaker](#speaker-activities) in Salesforce and Open-Source worlds
-- Sometimes participant to [Webinars & Podcasts](#webinars---podcasts)
+- **CTO** during the day at [Cloudity](https://www.cloudity.com/)
+- [**Open-Sourcerer**](#open-source-projects) during nights and week-ends (and also sometimes during the day thanks to Cloudity's [sfdx-hardis initiative](https://sfdx-hardis.cloudity.com/) !)
+- Sometimes [**Writer on Medium**](#latest-articles)
+- Sometimes [**Speaker**](#speaker-activities)
+- Sometimes participant to [**Webinars & Podcasts**](#webinars---podcasts)
 
 I love to teach what I know and to learn what I don't :)
 
