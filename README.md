@@ -30,6 +30,23 @@ To support my open-source work, you can **star my repositorie**s, **follow me on
 
 ## Open-source projects
 
+I created and still maintain several open-source projects:
+
+- [MegaLinter](#megalinter)
+- [sfdx-hardis](#sfdx-hardis)
+- [vscode-sfdx-hardis](#vscode-sfdx-hardis)
+- [npm-groovy-lint](#npm-groovy-lint)
+- [vscode-groovy-lint](#vscode-groovy-lint)
+- [sfdx-essentials](#sfdx-essentials)
+- [java-caller](#java-caller)
+- [node-sarif-builder](#node-sarif-builder)
+- [markdown-table-formatter](#markdown-table-formatter)
+- [github-dependents-info](#github-dependents-info)
+
+I also contribute to many others :)
+
+---
+
 ### [MegaLinter](https://github.com/oxsecurity/megalinter)
 
 [![MegaLinter Banner](https://github.com/oxsecurity/megalinter/raw/main/docs/assets/images/megalinter-banner.png)](https://megalinter.io)
@@ -168,6 +185,8 @@ Module to easily build SARIF logs within a javascript / typescript application
 Utility to automatically format markdown tables in files
 
 - Repository: https://github.com/nvuillam/markdown-table-formatter
+
+---
 
 ### [github-dependents-info](https://github.com/nvuillam/github-dependents-info/)
 
