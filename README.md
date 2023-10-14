@@ -249,6 +249,8 @@ Collect information about dependencies between a github repo and other repositor
 
 - Salesforce Developers Podcast, by Josh Birk, 2023: [_**Episode 182: SFDX-Hardis with Nicolas Vuillamy**_](https://developer.salesforce.com/podcast/2023/06/sfdx)
 
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/020a1666-3f51-4944-8fe9-4339b69475fc)](https://developer.salesforce.com/podcast/2023/06/sfdx)
+
 - Cloudity Webinar, 2023: _**Fluidifier le parcours des assureurs avec Profideo**_ , avec Guillaume Hedon (FR)
 
 [![Video](https://img.youtube.com/vi/tR_DzQQ3XTk/0.jpg)](https://www.youtube.com/watch?v=tR_DzQQ3XTk)
