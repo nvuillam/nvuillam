@@ -32,20 +32,26 @@ To support my open-source work, you can **star my repositorie**s, **follow me on
 
 ### [MegaLinter](https://github.com/oxsecurity/megalinter)
 
+[![MegaLinter Banner](https://github.com/oxsecurity/megalinter/raw/main/docs/assets/images/megalinter-banner.png)](https://megalinter.io)
+
 ![GitHub release](https://img.shields.io/github/v/release/megalinter/megalinter?sort=semver)
 [![Docker Pulls](https://img.shields.io/badge/docker%20pulls-3.1M-blue)](https://megalinter.github.io/flavors/)
 [![Downloads/week](https://img.shields.io/npm/dw/mega-linter-runner.svg)](https://npmjs.org/package/mega-linter-runner)
 [![GitHub stars](https://img.shields.io/github/stars/megalinter/megalinter?cacheSeconds=3600)](https://github.com/megalinter/megalinter/stargazers/)
 [![MegaLinter](https://github.com/megalinter/megalinter/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/megalinter/megalinter/actions?query=workflow%3AMegaLinter+branch%3Amain)
 
-Analyzes [**37 languages**](https://nvuillam.github.io/mega-linter/#languages), [**12 formats**](https://nvuillam.github.io/mega-linter/#formats), [**16 tooling formats**](https://nvuillam.github.io/mega-linter/#tooling-formats) , [**copy-pastes**](https://nvuillam.github.io/mega-linter/#other) and [**spell**](https://nvuillam.github.io/mega-linter/#other) in your repository sources, generate **reports in several formats**, and can even [**apply auto-fixes**](https://nvuillam.github.io/mega-linter/#apply-fixes#apply-fixes) with **auto-generated commit or PR**, to ensure all your projects are clean, whatever IDE/toolbox are used by their developers !
+MegaLinter is an **Open-Source** tool for **CI/CD workflows** that analyzes the **consistency of your code**, **IAC**, **configuration**, and **scripts** in your repository sources, to **ensure all your projects sources are clean and formatted** whatever IDE/toolbox is used by their developers, powered by [**OX Security**](https://www.ox.security/?ref=megalinter).
 
-- Online documentation: <https://nvuillam.github.io/mega-linter/>
+Supporting [**55** languages](https://megalinter.io/latest/supported-linters/#languages), [**24** formats](https://megalinter.io/latest/supported-linters/#formats), [**20** tooling formats](https://megalinter.io/latest/supported-linters/#tooling-formats) and **ready to use out of the box**, as a GitHub action or any CI system **highly configurable** and **free for all uses**.
+
+- Online documentation: <https://megalinter.io/>
 - Repository: https://github.com/oxsecurity/megalinter
 
 ---
 
 ### [sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis)
+
+[![sfdx-hardis Banner](https://raw.githubusercontent.com/hardisgroupcom/sfdx-hardis/main/docs/assets/images/sfdx-hardis-banner.png)](https://sfdx-hardis.cloudity.com)
 
 [![Version](https://img.shields.io/npm/v/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis)
 [![Downloads/week](https://img.shields.io/npm/dw/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis)
@@ -63,6 +69,8 @@ Salesforce DX plugin with lots of useful commands
 ---
 
 ### [vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis)
+
+[![](https://github.com/hardisgroupcom/vscode-sfdx-hardis/raw/main/resources/extension-demo.gif)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
@@ -148,6 +156,8 @@ Module to easily build SARIF logs within a javascript / typescript application
 ---
 
 ### [markdown-table-formatter](https://github.com/nvuillam/markdown-table-formatter)
+
+[![](https://raw.githubusercontent.com/nvuillam/markdown-table-formatter/master/docs/assets/images/banner.jpg)](https://github.com/nvuillam/markdown-table-formatter)
 
 [![Version](https://img.shields.io/npm/v/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
 [![Downloads/week](https://img.shields.io/npm/dw/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
