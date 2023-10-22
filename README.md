@@ -240,7 +240,7 @@ Collect information about dependencies between a github repo and other repositor
 
 - French Touch Dreamin' 2022, Paris: _**Simplify your trailblazer life with open source**_
 
-[![Video](https://img.youtube.com/vi/WE46LL6kRBY/0.jpg)](https://www.youtube.com/watch?v=WE46LL6kRBY)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/a5e6b58a-5156-4951-9ef1-6723135df171)](https://www.youtube.com/watch?v=WE46LL6kRBY)
 
 ## Webinars & Podcasts
 
