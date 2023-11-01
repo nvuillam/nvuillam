@@ -145,7 +145,7 @@ Toolbox to ease the use of Salesforce DX for development and deployment
 
 ---
 
-### [java-caller](https://github.com/nvuillam/node_java_caller/)
+### [java-caller](https://github.com/nvuillam/node-java-caller/)
 
 [![Version](https://img.shields.io/npm/v/java-caller.svg)](https://www.npmjs.com/package/java-caller)
 [![Downloads/week](https://img.shields.io/npm/dw/java-caller.svg)](https://npmjs.org/package/java-caller)
@@ -155,7 +155,7 @@ Toolbox to ease the use of Salesforce DX for development and deployment
 
 Library to easily deliver and execute java applications using node/npm
 
-- Repository: <https://github.com/nvuillam/node_java_caller/>
+- Repository: <https://github.com/nvuillam/node-java-caller/>
 
 ---
 
