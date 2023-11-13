@@ -4,6 +4,8 @@
   * [Open-source projects](#open-source-projects)
   * [Latest articles](#latest-articles)
   * [Speaker activities](#speaker-activities)
+    * [Agenda](#agenda)
+    * [Past Events](#past-events)
   * [Webinars & Podcasts](#webinars--podcasts)
   * [Some stats](#some-stats)
 
@@ -205,6 +207,12 @@ Collect information about dependencies between a github repo and other repositor
 
 ## Latest articles
 
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/9c280b00-a3bd-4417-9c0c-f1605c22fa8b)]((https://www.programmez.com/magazine/article/megalinter-votre-meilleur-allie-pour-du-code-clean-et-securise)) 
+
+_(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
+
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/6420fb3a-0da2-48f2-be80-6f32b0b3236a)](https://salesforcedevops.net/index.php/2023/03/01/sfdx-hardis-open-source-salesforce-release-management/)
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/0" alt="Recent Article 0">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/1" alt="Recent Article 1">
@@ -226,6 +234,14 @@ Collect information about dependencies between a github repo and other repositor
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9" alt="Recent Article 9">  
 
 ## Speaker activities
+
+### Agenda
+
+- 2023-11-30: [Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/) at [French Touch Dreamin](https://frenchtouchdreamin.com/)
+- 2023-11-30: [Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/) at [French Touch Dreamin](https://frenchtouchdreamin.com/)
+- 2023-12-14: [DevCon #20, 100% Sécurité et qualité du code (FR)](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code) at [ESGI School](https://www.esgi.fr/)
+
+### Past events
 
 - Dreamforce 2023, San Francisco: [_**Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl), with Jean-Pierre Rizzi
 
