@@ -269,7 +269,7 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 - French Touch Dreamin' 2022, Paris: _**Simplify your trailblazer life with open source**_
 
-[![Video]([https://github.com/nvuillam/nvuillam/assets/17500430/a5e6b58a-5156-4951-9ef1-6723135df171](https://github.com/nvuillam/nvuillam/assets/17500430/1eded128-b609-460b-bde8-f7494fcabcad))](https://www.youtube.com/watch?v=WE46LL6kRBY)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/1eded128-b609-460b-bde8-f7494fcabcad)](https://www.youtube.com/watch?v=WE46LL6kRBY)
 
 ## Webinars & Podcasts
 
