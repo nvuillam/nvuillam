@@ -84,7 +84,11 @@ Supporting [**55** languages](https://megalinter.io/latest/supported-linters/#la
 [![GitHub contributors](https://img.shields.io/github/contributors/hardisgroupcom/sfdx-hardis.svg)](https://gitHub.com/hardisgroupcom/sfdx-hardis/graphs/contributors/)
 [![Mega-Linter](https://github.com/hardisgroupcom/sfdx-hardis/workflows/Mega-Linter/badge.svg?branch=main)](https://github.com/hardisgroupcom/sfdx-hardis/actions?query=workflow%3AMega-Linter+branch%3Amain)
 
-Salesforce DX plugin with lots of useful commands
+Salesforce DX plugin with lots of useful commands allowing to:
+
+- Do with simple commands what could be done manually in minutes/hours
+- [Define a complete CI/CD Pipeline for your Salesforce project](https://sfdx-hardis.cloudity.com/salesforce-ci-cd-home/)
+- [Backup Metadatas and monitor any Salesforce org](https://sfdx-hardis.cloudity.com/salesforce-monitoring-home/)
 
 - Online documentation: <https://hardisgroupcom.github.io/sfdx-hardis/>
 - Repository: <https://github.com/hardisgroupcom/sfdx-hardis>
