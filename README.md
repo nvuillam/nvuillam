@@ -31,6 +31,8 @@ You can follow and contact me on:
 
 To support my open-source work, you can **star my repositorie**s, **follow me on github** or even [**sponsor me**](https://github.com/sponsors/nvuillam) :)
 
+---
+
 ## Open-source projects
 
 I created and still maintain several open-source projects:
@@ -205,6 +207,8 @@ Collect information about dependencies between a github repo and other repositor
 
 - Repository: https://github.com/nvuillam/github-dependents-info/
 
+---
+
 ## Latest articles
 
 [![image](https://github.com/nvuillam/nvuillam/assets/17500430/9c280b00-a3bd-4417-9c0c-f1605c22fa8b)]((https://www.programmez.com/magazine/article/megalinter-votre-meilleur-allie-pour-du-code-clean-et-securise)) 
@@ -232,6 +236,8 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/8" alt="Recent Article 8">  
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicolasvuillamy/9" alt="Recent Article 9">  
+
+---
 
 ## Speaker activities
 
@@ -276,6 +282,8 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 - SalesforceDevOps.net, by Vernon Keenan, 2023: _**SFDX-HARDIS – A demo with Nicolas Vuillamy from Cloudity**_
 
 [![Video](https://img.youtube.com/vi/qP6MaZUGzik/0.jpg)](https://www.youtube.com/watch?v=qP6MaZUGzik)
+
+---
 
 ## Some stats
 
