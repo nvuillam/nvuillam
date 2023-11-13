@@ -257,7 +257,7 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 - Dreamforce 2023, San Francisco: [_**Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl), with Jean-Pierre Rizzi
 
-[![Video](https://img.youtube.com/vi/o0Mm9F07UFs/0.jpg)](https://www.youtube.com/watch?v=o0Mm9F07UFs)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/e2412c0b-1401-485e-a26f-a4a67af2579a)](https://www.youtube.com/watch?v=o0Mm9F07UFs)
 
 - Dreamforce 2023, San Francisco: [_**Build Innovative Tools With CLI Plug-Ins, the sf Way**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389689001O7uD), with Andres Catalan and Shane Mc Laughlin
 
@@ -269,25 +269,25 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 - French Touch Dreamin' 2022, Paris: _**Simplify your trailblazer life with open source**_
 
-[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/a5e6b58a-5156-4951-9ef1-6723135df171)](https://www.youtube.com/watch?v=WE46LL6kRBY)
+[![Video]([https://github.com/nvuillam/nvuillam/assets/17500430/a5e6b58a-5156-4951-9ef1-6723135df171](https://github.com/nvuillam/nvuillam/assets/17500430/1eded128-b609-460b-bde8-f7494fcabcad))](https://www.youtube.com/watch?v=WE46LL6kRBY)
 
 ## Webinars & Podcasts
 
 - SalesforceBen, 2023: _**Ask Us Anything - Salesforce DevOps & CI/CD**_
 
-[![Video](https://img.youtube.com/vi/-1UTUzMfHzI/0.jpg)](https://www.youtube.com/watch?v=-1UTUzMfHzI)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/2cfa6010-a3c3-4d7e-bbda-c8a246999681)](https://www.youtube.com/watch?v=-1UTUzMfHzI)
 
 - Salesforce Developers Podcast, by Josh Birk, 2023: [_**Episode 182: SFDX-Hardis with Nicolas Vuillamy**_](https://developer.salesforce.com/podcast/2023/06/sfdx)
 
-[![image](https://github.com/nvuillam/nvuillam/assets/17500430/998bcf0e-e977-4831-8b3d-66b10dc9ecf8)](https://developer.salesforce.com/podcast/2023/06/sfdx)
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/4537c2b8-fcc2-430c-8817-0490a3647f41)](https://developer.salesforce.com/podcast/2023/06/sfdx)
 
 - Cloudity Webinar, 2023: _**Fluidifier le parcours des assureurs avec Profideo**_ , avec Guillaume Hedon (FR)
 
-[![Video](https://img.youtube.com/vi/tR_DzQQ3XTk/0.jpg)](https://www.youtube.com/watch?v=tR_DzQQ3XTk)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/6c33ca88-6704-4504-bccb-9e3fab01ccda)](https://www.youtube.com/watch?v=tR_DzQQ3XTk)
 
 - SalesforceDevOps.net, by Vernon Keenan, 2023: _**SFDX-HARDIS – A demo with Nicolas Vuillamy from Cloudity**_
 
-[![Video](https://img.youtube.com/vi/qP6MaZUGzik/0.jpg)](https://www.youtube.com/watch?v=qP6MaZUGzik)
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/2439bed4-9ff4-4121-a7f4-c1102acb3a8a)](https://www.youtube.com/watch?v=qP6MaZUGzik)
 
 ---
 
