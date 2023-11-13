@@ -90,6 +90,8 @@ Salesforce DX plugin with lots of useful commands allowing to:
 - [Define a complete CI/CD Pipeline for your Salesforce project](https://sfdx-hardis.cloudity.com/salesforce-ci-cd-home/)
 - [Backup Metadatas and monitor any Salesforce org](https://sfdx-hardis.cloudity.com/salesforce-monitoring-home/)
 
+References: 
+
 - Online documentation: <https://hardisgroupcom.github.io/sfdx-hardis/>
 - Repository: <https://github.com/hardisgroupcom/sfdx-hardis>
 
