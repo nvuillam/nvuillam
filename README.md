@@ -106,7 +106,7 @@ References:
 [![Mega-Linter](https://github.com/hardisgroupcom/vscode-sfdx-hardis/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
 [![GitHub stars](https://img.shields.io/github/stars/hardisgroupcom/vscode-sfdx-hardis.png?label=stars&cacheSeconds=3600)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/stargazers/)
 
-[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) embedding sfdx-hardis but also other plugins
+[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) embedding sfdx-hardis but also other plugins, aiming to allow developers but also admins to work with clicks and not command lines
 
 - Repository: <https://github.com/hardisgroupcom/vscode-sfdx-hardis>
 
