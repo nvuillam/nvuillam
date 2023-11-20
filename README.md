@@ -273,6 +273,10 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ## Webinars & Podcasts
 
+- Salesforce Way, 2023: _**102. Sfdx-hardis | Nicolas Vuillamy**_
+
+[![Video](https://github.com/nvuillam/nvuillam/assets/17500430/ef98f7ec-49c1-4123-b637-83dfad2df6b0)](https://salesforceway.com/podcast/sfdx-hardis/)
+
 - SalesforceBen, 2023: _**Ask Us Anything - Salesforce DevOps & CI/CD**_
 
 [![Video](https://github.com/nvuillam/nvuillam/assets/17500430/2cfa6010-a3c3-4d7e-bbda-c8a246999681)](https://www.youtube.com/watch?v=-1UTUzMfHzI)
