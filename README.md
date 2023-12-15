@@ -249,6 +249,7 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
+Some call for speakers submitted, but no answer yet :) If you hear about a cool tech event, don't hesitate to contact me :)
 
 ### Past events
 
