@@ -249,15 +249,20 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- 2023-12-14: [DevCon #20, 100% Sécurité et qualité du code (FR)](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code) at [ESGI School](https://www.esgi.fr/)
 
 ### Past events
 
+- [DevCon #20, 100% Sécurité et qualité du code (FR)](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code) at [ESGI School](https://www.esgi.fr/) on 2023-12-14
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/51a612cf-7bcd-4f9f-a85f-f18fc34abcb4)
+
 - [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/)
-  - Replay to come
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/8a2e1bbf-3402-4929-966d-5f99cb13cd29)
 
 - [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/)
-  - Replay to come 
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/e7c636a2-a28a-4e16-a677-737f86c06534)
 
 - Dreamforce 2023, San Francisco: [_**Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!**_](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl), with Jean-Pierre Rizzi
 
