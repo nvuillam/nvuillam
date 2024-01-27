@@ -7,6 +7,7 @@
     * [Agenda](#agenda)
     * [Past Events](#past-events)
   * [Webinars & Podcasts](#webinars--podcasts)
+  * [Other media](#other-media)
   * [Some stats](#some-stats)
 
 ## Who am I
@@ -302,6 +303,14 @@ Some call for speakers submitted, but no answer yet :) If you hear about a cool 
 - SalesforceDevOps.net, by Vernon Keenan, 2023: _**SFDX-HARDIS – A demo with Nicolas Vuillamy from Cloudity**_
 
 [![Video](https://github.com/nvuillam/nvuillam/assets/17500430/2439bed4-9ff4-4121-a7f4-c1102acb3a8a)](https://www.youtube.com/watch?v=qP6MaZUGzik)
+
+---
+
+## Other media
+
+- Article on [Salesforce Developers blog](https://developer.salesforce.com/blogs/2024/01/nicolas-vuillamy-builds-a-career-path-to-cto-in-the-salesforce-ecosystem) by [Christie Fidura](https://www.linkedin.com/in/christiefidura/)
+
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/c7da9b95-63e4-46ef-ab88-74a950f9552e)](https://developer.salesforce.com/blogs/2024/01/nicolas-vuillamy-builds-a-career-path-to-cto-in-the-salesforce-ecosystem)
 
 ---
 
