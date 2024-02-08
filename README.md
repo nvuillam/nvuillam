@@ -250,9 +250,15 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-Some call for speakers submitted, but no answer yet :) If you hear about a cool tech event, don't hesitate to contact me :)
+- [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/82d3d5a0-f927-4fec-b93a-b8741e6b7961)
 
 ### Past events
+
+- MegaLinter presentation & workshop for [Starinux association](https://www.starinux.org/index.php) on 2023-02-03
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/d26029d4-378b-4103-91f7-e331c61daa3f)
 
 - [DevCon #20, 100% Sécurité et qualité du code (FR)](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code) at [ESGI School](https://www.esgi.fr/) on 2023-12-14
 
