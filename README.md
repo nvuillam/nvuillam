@@ -254,9 +254,11 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/82d3d5a0-f927-4fec-b93a-b8741e6b7961)
 
+- [Wir Sind Ohana](https://www.wirsindohana.de/), Berlin: Automate the Monitoring of your Salesforce orgs with open-source tools only !, with Yosra Saidani
+
 ### Past events
 
-- [Salesforce World Tour Paris 2024](https://reg.salesforce.com/flow/plus/wtparis24/sessioncatalog/page/Catalog): [La French Touch': l'open-source premium pour Trailblazers (FR)](https://fr.slideshare.net/slideshows/la-french-touch-lopensource-premium-pour-trailblazers/266764588)
+- [Salesforce World Tour Paris 2024](https://reg.salesforce.com/flow/plus/wtparis24/sessioncatalog/page/Catalog): [La French Touch': l'open-source premium pour Trailblazers (FR)](https://fr.slideshare.net/slideshows/la-french-touch-lopensource-premium-pour-trailblazers/266764588), with Fabien Taillon
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/520bff70-3889-4d3f-8445-a0d104fd262e)
 
