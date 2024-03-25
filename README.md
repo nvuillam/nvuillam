@@ -250,13 +250,13 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
-
-![image](https://github.com/nvuillam/nvuillam/assets/17500430/82d3d5a0-f927-4fec-b93a-b8741e6b7961)
-
 - [Wir Sind Ohana](https://www.wirsindohana.de/), Berlin: Automate the Monitoring of your Salesforce orgs with open-source tools only !, with Yosra Saidani
 
 ### Past events
+
+- [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
+
+![image](https://github.com/nvuillam/nvuillam/assets/17500430/e843cc08-bf8a-452d-b7f0-c64a314f1b60)
 
 - [Salesforce World Tour Paris 2024](https://reg.salesforce.com/flow/plus/wtparis24/sessioncatalog/page/Catalog): [La French Touch': l'open-source premium pour Trailblazers (FR)](https://fr.slideshare.net/slideshows/la-french-touch-lopensource-premium-pour-trailblazers/266764588), with Fabien Taillon
 
