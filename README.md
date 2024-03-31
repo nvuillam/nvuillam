@@ -218,6 +218,10 @@ Collect information about dependencies between a github repo and other repositor
 
 ## Latest articles
 
+[![image](https://github.com/nvuillam/nvuillam/assets/17500430/29d45f8d-1b10-444a-9992-e8fb19b7bdf9)](https://www.programmez.com/magazine/article/salesforce-cli-le-compagnon-indispensable-dune-plateforme-low-code)
+
+_(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
+
 [![image](https://github.com/nvuillam/nvuillam/assets/17500430/9c280b00-a3bd-4417-9c0c-f1605c22fa8b)]((https://www.programmez.com/magazine/article/megalinter-votre-meilleur-allie-pour-du-code-clean-et-securise)) 
 
 _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
