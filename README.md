@@ -254,9 +254,13 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- [Wir Sind Ohana](https://www.wirsindohana.de/), Berlin: Automate the Monitoring of your Salesforce orgs with open-source tools only !, with Yosra Saidani
+- Dreamforce 2024, San Francisco
 
 ### Past events
+
+- [Wir Sind Ohana](https://www.wirsindohana.de/), Berlin: Automate the Monitoring of your Salesforce orgs with open-source tools only !, with Yosra Saidani
+
+[![Video](https://github.com/user-attachments/assets/0310d124-ebb4-4b56-85a1-64f0f75c9ee3)](https://www.youtube.com/watch?v=xGbT6at7RZ0)
 
 - [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
 
