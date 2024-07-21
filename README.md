@@ -1,5 +1,7 @@
 # Nicolas Vuillamy
 
+![image](https://github.com/user-attachments/assets/699bb0e2-d182-4b6c-8726-25626d7bf526)
+
   * [Who am I](#who-am-i)
   * [Open-source projects](#open-source-projects)
   * [Latest articles](#latest-articles)
