@@ -256,7 +256,7 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- Dreamforce 2024, San Francisco
+- [Dreamforce 2024](https://www.salesforce.com/dreamforce/), San Francisco: [Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH), with Olga Shirikova
 
 ### Past events
 
