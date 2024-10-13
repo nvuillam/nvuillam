@@ -256,9 +256,13 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- [Dreamforce 2024](https://www.salesforce.com/dreamforce/), San Francisco: [Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH), with Olga Shirikova
+Nothing official yet, some Call For Speakers in preparation :)
 
 ### Past events
+
+- [Dreamforce 2024](https://www.salesforce.com/dreamforce/), San Francisco: [Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH), with Olga Shirikova
+
+[![Video](https://img.youtube.com/vi/NxiLiYeo11A/0.jpg)](https://www.youtube.com/watch?v=NxiLiYeo11A)
 
 - [Wir Sind Ohana](https://www.wirsindohana.de/), Berlin: Automate the Monitoring of your Salesforce orgs with open-source tools only !, with Yosra Saidani
 
