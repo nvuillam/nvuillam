@@ -260,7 +260,7 @@ Nothing official yet, some Call For Speakers in preparation :)
 
 ### Past events
 
-- Salesforce Trailblazer Lyon Admin Group, Lyon: [Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/)
+- Salesforce Trailblazer Lyon Admin Group, Lyon: [Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/), with Thomas Prouvot
 
 ![image](https://github.com/user-attachments/assets/90621fe0-6527-4a34-8a0b-c14bd6d21cbd)
 
@@ -272,7 +272,7 @@ Nothing official yet, some Call For Speakers in preparation :)
 
 [![Video](https://github.com/user-attachments/assets/0310d124-ebb4-4b56-85a1-64f0f75c9ee3)](https://www.youtube.com/watch?v=xGbT6at7RZ0)
 
-- [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
+- [Polish Dreamin '24](https://coffeeforce.pl/dreamin/), Wroclaw, Poland: [Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/), with Wojciech Suwiński
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/e843cc08-bf8a-452d-b7f0-c64a314f1b60)
 
@@ -288,11 +288,11 @@ Nothing official yet, some Call For Speakers in preparation :)
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/51a612cf-7bcd-4f9f-a85f-f18fc34abcb4)
 
-- [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/)
+- [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/), with Maxime Guenego
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/8a2e1bbf-3402-4929-966d-5f99cb13cd29)
 
-- [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/)
+- [French Touch Dreamin '23](https://frenchtouchdreamin.com/), Paris: [Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/), with Fabian Kramer
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/e7c636a2-a28a-4e16-a677-737f86c06534)
 
