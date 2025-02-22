@@ -260,6 +260,10 @@ Nothing official yet, some Call For Speakers in preparation :)
 
 ### Past events
 
+- Salesforce Trailblazer Lyon Admin Group, Lyon: [Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/)
+
+![image](https://github.com/user-attachments/assets/90621fe0-6527-4a34-8a0b-c14bd6d21cbd)
+
 - [Dreamforce 2024](https://www.salesforce.com/dreamforce/), San Francisco: [Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH), with Olga Shirikova
 
 [![Video](https://img.youtube.com/vi/NxiLiYeo11A/0.jpg)](https://www.youtube.com/watch?v=NxiLiYeo11A)
@@ -310,7 +314,15 @@ Nothing official yet, some Call For Speakers in preparation :)
 
 ## Webinars & Podcasts
 
-- Salesforce Way, 2023: _**102. Sfdx-hardis | Nicolas Vuillamy**_
+- Apex Hours, 2025: _**Org monitoring with Grafana + AI generated doc**_
+
+![image](https://github.com/user-attachments/assets/b467fe8b-941e-41c5-891f-59a03a481042)
+
+- Anchore Community, 2025: _**Open Source Community Spotlight | Nicolas Vuillamy | MegaLinter**_
+
+![image](https://github.com/user-attachments/assets/c68a2f60-fb0c-45e7-bd7c-e1b1c8e41885)
+
+- Salesforce Way, 2024: _**102. Sfdx-hardis | Nicolas Vuillamy**_
 
 [![Video](https://github.com/nvuillam/nvuillam/assets/17500430/da5feba3-60e2-412f-a7a1-fb9c2f0efc3b)](https://salesforceway.com/podcast/sfdx-hardis/)
 
