@@ -256,7 +256,11 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-Nothing official yet, some Call For Speakers in preparation :)
+- Czech Dreamin, Prague, 30/05/2025: Auto-generate your SF project Documentation site with open-source and Agentfforce, with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
+
+![image](https://github.com/user-attachments/assets/fa7b7f12-6d6a-437c-badd-20a626bb2163)
+
+- London's Calling, London, 06/01/2025: Auto-generate your SF project Documentation site with open-source and Agentfforce
 
 ### Past events
 
