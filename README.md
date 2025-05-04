@@ -34,6 +34,8 @@ You can follow and contact me on:
 
 To support my open-source work, you can **star my repositorie**s, **follow me on github** or even [**sponsor me**](https://github.com/sponsors/nvuillam) :)
 
+[![Buy Me a Coffee](https://github.com/user-attachments/assets/c9d701de-0f1c-4c9d-a905-f63f1acb4b95)](https://buymeacoffee.com/nicolasvuillamy)
+
 ---
 
 ## Open-source projects
