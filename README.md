@@ -258,13 +258,17 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
+- Nothing official yet :)
+
+### Past events
+
+- London's Calling, London, 06/01/2025: Auto-generate your SF project Documentation site with open-source and Agentforce
+
+![image](https://github.com/user-attachments/assets/9b99120c-b660-4f67-b734-793148ac9d00)
+
 - Czech Dreamin, Prague, 30/05/2025: Auto-generate your SF project Documentation site with open-source and Agentfforce, with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
 
 ![image](https://github.com/user-attachments/assets/fa7b7f12-6d6a-437c-badd-20a626bb2163)
-
-- London's Calling, London, 06/01/2025: Auto-generate your SF project Documentation site with open-source and Agentfforce
-
-### Past events
 
 - Salesforce Trailblazer Lyon Admin Group, Lyon: [Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/), with Thomas Prouvot
 
