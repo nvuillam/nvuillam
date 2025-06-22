@@ -322,7 +322,7 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 - Apex Hours, 2025: _**Org monitoring with Grafana + AI generated doc**_
 
-![image](https://github.com/user-attachments/assets/b467fe8b-941e-41c5-891f-59a03a481042)
+[![Video](https://github.com/user-attachments/assets/b467fe8b-941e-41c5-891f-59a03a481042)](https://www.youtube.com/watch?v=oDaCh66pRcI)
 
 - Anchore Community, 2025: _**Open Source Community Spotlight | Nicolas Vuillamy | MegaLinter**_
 
