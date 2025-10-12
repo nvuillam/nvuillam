@@ -258,7 +258,13 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 
 ### Agenda
 
-- Nothing official yet :)
+- [DevOps Dreamin](https://devopsdreamin.com/agenda/), London, 20/11/2025: Why you don't need DevOps vendors tools
+
+<img width="1320" height="370" alt="image" src="https://github.com/user-attachments/assets/bc1e3831-9e89-4098-bedd-40cafbba3cfd" />
+
+- [French Touch Dreamin '25](https://frenchtouchdreamin.com/index.php/sessions/refresh-your-full-sandboxes-without-needing-to-reconfigure-everything/), Paris, 02/12/2025: Refresh your full sandboxes without needing to reconfigure everything, with [Mehdi Abdennasser](https://www.linkedin.com/in/mehdi-abdennasser/)
+
+<img width="1901" height="661" alt="image" src="https://github.com/user-attachments/assets/7b01704b-5dd5-463e-914b-71c867632ea5" />
 
 ### Past events
 
