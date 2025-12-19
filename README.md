@@ -42,16 +42,17 @@ To support my open-source work, you can **star my repositorie**s, **follow me on
 
 I created and still maintain several open-source projects:
 
-- [MegaLinter](#megalinter)
-- [sfdx-hardis](#sfdx-hardis)
-- [vscode-sfdx-hardis](#vscode-sfdx-hardis)
-- [npm-groovy-lint](#npm-groovy-lint)
-- [vscode-groovy-lint](#vscode-groovy-lint)
-- [sfdx-essentials](#sfdx-essentials)
-- [java-caller](#java-caller)
-- [node-sarif-builder](#node-sarif-builder)
-- [markdown-table-formatter](#markdown-table-formatter)
-- [github-dependents-info](#github-dependents-info)
+| Project | Description | Stats |
+| --- | --- | --- |
+| [MegaLinter](#megalinter) | Open-source CI/CD linter to ensure code consistency across projects | [![GitHub stars](https://img.shields.io/github/stars/megalinter/megalinter?cacheSeconds=3600)](https://github.com/megalinter/megalinter/stargazers/) |
+| [sfdx-hardis](#sfdx-hardis) | Salesforce DX plugin with many productivity commands | [![Downloads/week](https://img.shields.io/npm/dw/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis) |
+| [vscode-sfdx-hardis](#vscode-sfdx-hardis) | VS Code extension embedding `sfdx-hardis` for GUI workflows | [![Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) |
+| [npm-groovy-lint](#npm-groovy-lint) | Groovy linter, formatter and auto-fixer | [![Downloads/week](https://img.shields.io/npm/dw/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint) |
+| [vscode-groovy-lint](#vscode-groovy-lint) | VS Code extension wrapping `npm-groovy-lint` | [![Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) |
+| [java-caller](#java-caller) | Library to deliver and execute Java apps from Node/npm | [![Downloads/week](https://img.shields.io/npm/dw/java-caller.svg)](https://www.npmjs.com/package/java-caller) |
+| [node-sarif-builder](#node-sarif-builder) | Module to build SARIF logs in JavaScript/TypeScript apps | [![Downloads/week](https://img.shields.io/npm/dw/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder) |
+| [markdown-table-formatter](#markdown-table-formatter) | Utility to automatically format markdown tables | [![Downloads/week](https://img.shields.io/npm/dw/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter) |
+| [github-dependents-info](#github-dependents-info) | Collect info about repo dependents; outputs JSON, markdown and badge | [![PyPI - Downloads](https://img.shields.io/pypi/dm/github-dependents-info)](https://pypi.org/project/github-dependents-info/) |
 
 I also contribute to many others :)
 
@@ -144,20 +145,6 @@ Groovy linter, formatter and auto-fixer
 
 - Online documentation: <https://nvuillam.github.io/vscode-groovy-lint/>
 - Repository: <https://github.com/nvuillam/vscode-groovy-lint/>
-
----
-
-### [sfdx-essentials](https://github.com/nvuillam/sfdx-essentials/)
-
-[![Version](https://img.shields.io/npm/v/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Downloads/week](https://img.shields.io/npm/dw/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Downloads/total](https://img.shields.io/npm/dt/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Mega-Linter](https://github.com/nvuillam/sfdx-essentials/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
-[![GitHub stars](https://img.shields.io/github/stars/nvuillam/sfdx-essentials?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/sfdx-essentials/stargazers/)
-
-Toolbox to ease the use of Salesforce DX for development and deployment
-
-- Repository: <https://github.com/nvuillam/sfdx-essentials/>
 
 ---
 

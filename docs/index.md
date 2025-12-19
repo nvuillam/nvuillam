@@ -96,17 +96,7 @@ Salesforce DX plugin with lots of useful commands
 
 ---
 
-### sfdx-essentials
 
-[![Version](https://img.shields.io/npm/v/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Downloads/week](https://img.shields.io/npm/dw/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Downloads/total](https://img.shields.io/npm/dt/sfdx-essentials.svg)](https://npmjs.org/package/sfdx-essentials)
-[![Mega-Linter](https://github.com/nvuillam/sfdx-essentials/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
-[![GitHub stars](https://img.shields.io/github/stars/nvuillam/sfdx-essentials?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/sfdx-essentials/stargazers/)
-
-Toolbox to ease the use of Salesforce DX for development and deployment
-
-- Repository: <https://github.com/nvuillam/sfdx-essentials/>
 
 ---
 
