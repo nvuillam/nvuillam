@@ -1,6 +1,6 @@
 # Nicolas Vuillamy
 
-![image](https://github.com/user-attachments/assets/699bb0e2-d182-4b6c-8726-25626d7bf526)
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1ca23394-9005-4653-a275-afbc567f0ca0" />
 
   * [Who am I](#who-am-i)
   * [Open-source projects](#open-source-projects)
