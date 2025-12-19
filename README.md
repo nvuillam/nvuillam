@@ -242,7 +242,7 @@ I've submitted to call for speakers of 2026 Dreamin events in Berlin, Wroclaw, V
 
 #### Czech Dreamin, Prague, 30/05/2025: Auto-generate your SF project Documentation site with open-source and Agentfforce, with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
 
-![image](https://github.com/user-attachments/assets/fa7b7f12-6d6a-437c-badd-20a626bb2163)
+<img width="1920" height="1080" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/e6b8c6ae-f2aa-4af0-96a5-11b117deeb0e" />
 
 #### Salesforce Trailblazer Lyon Admin Group, Lyon: [Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/), with Thomas Prouvot
 
