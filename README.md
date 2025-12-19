@@ -332,6 +332,14 @@ I've submitted to call for speakers of 2026 Dreamin events in Berlin, Wroclaw, V
 
 ## Webinars & Podcasts
 
+- DevOps Diaries with Jack McCurdy, 2025: _**Episode 067 — Nicolas Vuillamy: CTO, DevOps enthusiast, and open-source champion!**_
+
+[![Video](https://github.com/user-attachments/assets/9896613c-9eb1-49d6-8769-3a91c84a12fa)](https://www.youtube.com/watch?v=uNUMt4TFC7w)
+
+- SalesforceBen Deep Dives with Peter Chittum, 2025: _**Simplify Salesforce Deployment with SFDX Hardis**_
+
+[![Video](https://github.com/user-attachments/assets/383f6e9a-8102-42bc-be24-42663e9959d4)](https://www.youtube.com/watch?v=vtWx_IWoL9k)
+
 - Apex Hours, 2025: _**Org monitoring with Grafana + AI generated doc**_
 
 [![Video](https://github.com/user-attachments/assets/b467fe8b-941e-41c5-891f-59a03a481042)](https://www.youtube.com/watch?v=oDaCh66pRcI)
