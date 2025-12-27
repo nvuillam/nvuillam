@@ -213,11 +213,19 @@ Collect information about dependencies between a github repo and other repositor
 
 I've submitted to call for speakers of 2026 Dreamin events in Berlin, Wroclaw, Valencia & Prague... let's wait and see, hoping I'll have the honor to be selected :)
 
+#### Dream Ole '25
+
+<img width="976" height="549" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/352bb6df-0b38-4ddb-94f0-8c95dd848bc5" />
+
+Refresh your full sandboxes without needing to reconfigure everything
+
+Valencia, Spain, 27/03/2026
+
 ### Past events
 
 #### [French Touch Dreamin '25](https://frenchtouchdreamin.com/index.php/sessions/refresh-your-full-sandboxes-without-needing-to-reconfigure-everything/)
 
-Refresh your full sandboxes without needing to reconfigure everything — with [Mehdi Abdennasser](https://www.linkedin.com/in/mehdi-abdennasser/)
+Refresh your full sandboxes without needing to reconfigure everything, with [Mehdi Abdennasser](https://www.linkedin.com/in/mehdi-abdennasser/)
 
 Paris, France — 02/12/2025
 
