@@ -213,7 +213,7 @@ Collect information about dependencies between a github repo and other repositor
 
 I've submitted to call for speakers of 2026 Dreamin events in Berlin, Wroclaw, Valencia & Prague... let's wait and see, hoping I'll have the honor to be selected :)
 
-#### Dream Ole '25
+#### Dream Ole '26
 
 <img width="976" height="549" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/352bb6df-0b38-4ddb-94f0-8c95dd848bc5" />
 
