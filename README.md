@@ -211,7 +211,13 @@ Collect information about dependencies between a github repo and other repositor
 
 ### Agenda
 
-I've submitted to call for speakers of 2026 Dreamin events in Berlin, Wroclaw, Valencia & Prague... let's wait and see, hoping I'll have the honor to be selected :)
+#### Polish Dreamin '26
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/611b1a0d-f966-4443-a641-c357a14ef099" />
+
+Refresh your full sandboxes without needing to reconfigure everything
+
+Wroclaw, Poland, 20/03/2026
 
 #### Dream Ole '26
 
