@@ -211,6 +211,12 @@ Collect information about dependencies between a github repo and other repositor
 
 ### Agenda
 
+#### [North Africa Dreamin' 2026](https://www.linkedin.com/posts/nad2026-trailblazercommunity-salesforce-share-7488021542417821696-f-Yd/)
+
+Non-deterministic + deterministic Agentic Engineering: Delegate your Salesforce job to Agents but ensure their reliability with CI/CD
+
+Casablanca, Morocco, 24/10/2026
+
 #### [French Touch Dreamin '26](https://frenchtouchdreamin.com/)
 
 Paris, France — date TBC
