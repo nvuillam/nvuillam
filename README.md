@@ -217,13 +217,31 @@ Non-deterministic + deterministic Agentic Engineering: Delegate your Salesforce 
 
 Casablanca, Morocco, 24/10/2026
 
-#### [French Touch Dreamin '26](https://frenchtouchdreamin.com/)
-
-Paris, France — date TBC
-
-_More talks to be announced — follow me on [LinkedIn](https://www.linkedin.com/in/nicolas-vuillamy) to stay posted!_
-
 ### Past events
+
+#### [London's Calling '26](https://www.londonscalling.net/speakers/nicolas-vuillamy/)
+
+Refresh your full sandboxes without needing to reconfigure everything
+
+London, UK — 05/06/2026
+
+---
+
+#### [Czech Dreamin '26](https://czechdreamin.com/)
+
+Refresh your full sandboxes without needing to reconfigure everything
+
+Prague, Czechia — 29/05/2026
+
+---
+
+#### [Wir Sind Ohana '26](https://wirsindohana.de/)
+
+When was the last time you refreshed your sandboxes to have fresh data?
+
+Berlin, Germany — 08/05/2026
+
+---
 
 #### Dream Ole '26
 
