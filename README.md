@@ -215,7 +215,7 @@ Collect information about dependencies between a github repo and other repositor
 
 Non-deterministic + deterministic Agentic Engineering: Delegate your Salesforce job to Agents but ensure their reliability with CI/CD
 
-Casablanca, Morocco, 24/10/2026
+Casablanca, Morocco — October 24, 2026
 
 ### Past events
 
@@ -223,7 +223,7 @@ Casablanca, Morocco, 24/10/2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-London, UK — 05/06/2026
+London, UK — June 5, 2026
 
 ---
 
@@ -231,7 +231,7 @@ London, UK — 05/06/2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Prague, Czechia — 29/05/2026
+Prague, Czechia — May 29, 2026
 
 ---
 
@@ -239,7 +239,7 @@ Prague, Czechia — 29/05/2026
 
 When was the last time you refreshed your sandboxes to have fresh data?
 
-Berlin, Germany — 08/05/2026
+Berlin, Germany — May 8, 2026
 
 ---
 
@@ -249,7 +249,7 @@ Berlin, Germany — 08/05/2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Valencia, Spain — 27/03/2026
+Valencia, Spain — March 27, 2026
 
 ---
 
@@ -259,7 +259,7 @@ Valencia, Spain — 27/03/2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Wroclaw, Poland — 20/03/2026
+Wroclaw, Poland — March 20, 2026
 
 ---
 
@@ -267,7 +267,7 @@ Wroclaw, Poland — 20/03/2026
 
 Refresh your full sandboxes without needing to reconfigure everything, with [Mehdi Abdennasser](https://www.linkedin.com/in/mehdi-abdennasser/)
 
-Paris, France — 02/12/2025
+Paris, France — December 2, 2025
 
 <img width="1920" height="1080" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/853b9d66-973e-43ef-bfcf-fe044d1d4d94" />
 
@@ -277,7 +277,7 @@ Paris, France — 02/12/2025
 
 Why you don't need DevOps vendors tools
 
-London, UK — 20/11/2025
+London, UK — November 20, 2025
 
 <img width="1920" height="1080" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/d626363c-64af-43fb-b0a0-d2f0afcb9c1d" />
 
@@ -287,7 +287,7 @@ London, UK — 20/11/2025
 
 Auto-generate your SF project Documentation site with open-source and Agentforce
 
-London, UK — 06/01/2025
+London, UK — January 6, 2025
 
 ![image](https://github.com/user-attachments/assets/9b99120c-b660-4f67-b734-793148ac9d00)
 
@@ -297,7 +297,7 @@ London, UK — 06/01/2025
 
 Auto-generate your SF project Documentation site with open-source and Agentfforce — with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
 
-Prague, Czechia — 30/05/2025
+Prague, Czechia — May 30, 2025
 
 <img width="1920" height="1080" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/e6b8c6ae-f2aa-4af0-96a5-11b117deeb0e" />
 
@@ -356,9 +356,8 @@ Paris, France
 #### MegaLinter presentation & workshop (Starinux association)
 
 Presentation & workshop for [Starinux association](https://www.starinux.org/index.php)
-2023-02-03
 
-Paris, France
+Paris, France — February 3, 2023
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/d26029d4-378b-4103-91f7-e331c61daa3f)
 
@@ -368,7 +367,7 @@ Paris, France
 
 100% Sécurité et qualité du code (FR) — at [ESGI School](https://www.esgi.fr/)
 
-Paris, France, 2023-12-14
+Paris, France — December 14, 2023
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/51a612cf-7bcd-4f9f-a85f-f18fc34abcb4)
 
