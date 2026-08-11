@@ -215,7 +215,7 @@ Collect information about dependencies between a github repo and other repositor
 
 Non-deterministic + deterministic Agentic Engineering: Delegate your Salesforce job to Agents but ensure their reliability with CI/CD
 
-Casablanca, Morocco — October 24, 2026
+Casablanca, Morocco - October 24, 2026
 
 ### Past events
 
@@ -223,7 +223,7 @@ Casablanca, Morocco — October 24, 2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-London, UK — June 5, 2026
+London, UK - June 5, 2026
 
 ---
 
@@ -231,7 +231,7 @@ London, UK — June 5, 2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Prague, Czechia — May 29, 2026
+Prague, Czechia - May 29, 2026
 
 ---
 
@@ -239,7 +239,7 @@ Prague, Czechia — May 29, 2026
 
 When was the last time you refreshed your sandboxes to have fresh data?
 
-Berlin, Germany — May 8, 2026
+Berlin, Germany - May 8, 2026
 
 ---
 
@@ -249,7 +249,7 @@ Berlin, Germany — May 8, 2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Valencia, Spain — March 27, 2026
+Valencia, Spain - March 27, 2026
 
 ---
 
@@ -259,7 +259,7 @@ Valencia, Spain — March 27, 2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Wroclaw, Poland — March 20, 2026
+Wroclaw, Poland - March 20, 2026
 
 ---
 
@@ -267,7 +267,7 @@ Wroclaw, Poland — March 20, 2026
 
 Refresh your full sandboxes without needing to reconfigure everything, with [Mehdi Abdennasser](https://www.linkedin.com/in/mehdi-abdennasser/)
 
-Paris, France — December 2, 2025
+Paris, France - December 2, 2025
 
 <img width="1920" height="1080" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/853b9d66-973e-43ef-bfcf-fe044d1d4d94" />
 
@@ -277,7 +277,7 @@ Paris, France — December 2, 2025
 
 Why you don't need DevOps vendors tools
 
-London, UK — November 20, 2025
+London, UK - November 20, 2025
 
 <img width="1920" height="1080" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/d626363c-64af-43fb-b0a0-d2f0afcb9c1d" />
 
@@ -287,7 +287,7 @@ London, UK — November 20, 2025
 
 Auto-generate your SF project Documentation site with open-source and Agentforce
 
-London, UK — January 6, 2025
+London, UK - January 6, 2025
 
 ![image](https://github.com/user-attachments/assets/9b99120c-b660-4f67-b734-793148ac9d00)
 
@@ -295,9 +295,9 @@ London, UK — January 6, 2025
 
 #### Czech Dreamin (2025)
 
-Auto-generate your SF project Documentation site with open-source and Agentfforce — with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
+Auto-generate your SF project Documentation site with open-source and Agentfforce - with [Mariia Pyvovarchuk](https://www.linkedin.com/in/mpyvo/)
 
-Prague, Czechia — May 30, 2025
+Prague, Czechia - May 30, 2025
 
 <img width="1920" height="1080" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/e6b8c6ae-f2aa-4af0-96a5-11b117deeb0e" />
 
@@ -305,7 +305,7 @@ Prague, Czechia — May 30, 2025
 
 #### Salesforce Trailblazer Lyon Admin Group
 
-[Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/) — with Thomas Prouvot
+[Techs for Admins: Afterwork Salesforce Inspector Reloaded & sfdx-hardis](https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-admin-group-lyon-france-presents-afterwork-salesforce-inspector-reloaded-et-sfdx-hardis-avec-cloudity/) - with Thomas Prouvot
 
 Lyon, France
 
@@ -315,7 +315,7 @@ Lyon, France
 
 #### [Dreamforce 2024](https://www.salesforce.com/dreamforce/)
 
-[Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH) — with Olga Shirikova
+[Save the Day by Monitoring Your Org with Open-Source Tools](https://reg.salesforce.com/flow/plus/df24/sessioncatalog/page/catalog/session/1718915808069001Q7HH) - with Olga Shirikova
 
 San Francisco, USA
 
@@ -325,7 +325,7 @@ San Francisco, USA
 
 #### [Wir Sind Ohana](https://www.wirsindohana.de/)
 
-Automate the Monitoring of your Salesforce orgs with open-source tools only ! — with Yosra Saidani
+Automate the Monitoring of your Salesforce orgs with open-source tools only ! - with Yosra Saidani
 
 Berlin, Germany
 
@@ -335,7 +335,7 @@ Berlin, Germany
 
 #### [Polish Dreamin '24](https://coffeeforce.pl/dreamin/)
 
-[Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/) — with Wojciech Suwiński
+[Easy and complete Salesforce CI/CD with open-source only !](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/) - with Wojciech Suwiński
 
 Wroclaw, Poland
 
@@ -345,7 +345,7 @@ Wroclaw, Poland
 
 #### [Salesforce World Tour Paris 2024](https://reg.salesforce.com/flow/plus/wtparis24/sessioncatalog/page/Catalog)
 
-[La French Touch': l'open-source premium pour Trailblazers (FR)](https://fr.slideshare.net/slideshows/la-french-touch-lopensource-premium-pour-trailblazers/266764588) — with Fabien Taillon
+[La French Touch': l'open-source premium pour Trailblazers (FR)](https://fr.slideshare.net/slideshows/la-french-touch-lopensource-premium-pour-trailblazers/266764588) - with Fabien Taillon
 
 Paris, France
 
@@ -357,7 +357,7 @@ Paris, France
 
 Presentation & workshop for [Starinux association](https://www.starinux.org/index.php)
 
-Paris, France — February 3, 2023
+Paris, France - February 3, 2023
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/d26029d4-378b-4103-91f7-e331c61daa3f)
 
@@ -365,9 +365,9 @@ Paris, France — February 3, 2023
 
 #### [DevCon #20](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code)
 
-100% Sécurité et qualité du code (FR) — at [ESGI School](https://www.esgi.fr/)
+100% Sécurité et qualité du code (FR) - at [ESGI School](https://www.esgi.fr/)
 
-Paris, France — December 14, 2023
+Paris, France - December 14, 2023
 
 ![image](https://github.com/nvuillam/nvuillam/assets/17500430/51a612cf-7bcd-4f9f-a85f-f18fc34abcb4)
 
@@ -375,7 +375,7 @@ Paris, France — December 14, 2023
 
 #### [French Touch Dreamin '23](https://frenchtouchdreamin.com/)
 
-[Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/) — with Maxime Guenego
+[Automate the Monitoring of your Salesforce orgs with open-source tools only !](https://frenchtouchdreamin.com/index.php/schedule/) - with Maxime Guenego
 
 Paris, France
 
@@ -385,7 +385,7 @@ Paris, France
 
 #### [French Touch Dreamin '23](https://frenchtouchdreamin.com/)
 
-[Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/) — with Fabian Kramer
+[Aim for Flow Excellence with the Lightning Flow Scanner](https://frenchtouchdreamin.com/index.php/schedule/) - with Fabian Kramer
 
 Paris, France
 
@@ -395,7 +395,7 @@ Paris, France
 
 #### Dreamforce 2023
 
-[Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl) — with Jean-Pierre Rizzi
+[Easy Salesforce CI/CD with open-source and clicks only thanks to sfdx-hardis!](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389783001OqEl) - with Jean-Pierre Rizzi
 
 San Francisco, USA
 
@@ -405,7 +405,7 @@ San Francisco, USA
 
 #### Dreamforce 2023
 
-[Build Innovative Tools With CLI Plug-Ins, the sf Way](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389689001O7uD) — with Andres Catalan and Shane Mc Laughlin
+[Build Innovative Tools With CLI Plug-Ins, the sf Way](https://reg.salesforce.com/flow/plus/df23/sessioncatalog/page/catalog/session/1684196389689001O7uD) - with Andres Catalan and Shane Mc Laughlin
 
 San Francisco, USA
 
@@ -415,7 +415,7 @@ San Francisco, USA
 
 #### Yeur Dreamin' 2023
 
-An easy and complete Salesforce CI/CD release management with open-source only ! — with Angélique Picoreau
+An easy and complete Salesforce CI/CD release management with open-source only ! - with Angélique Picoreau
 
 Brussels, Belgium
 
@@ -436,7 +436,7 @@ Paris, France
 
 ## Webinars & Podcasts
 
-- DevOps Diaries with Jack McCurdy, 2026: _**Episode 067 — Nicolas Vuillamy: CTO, DevOps enthusiast, and open-source champion!**_
+- DevOps Diaries with Jack McCurdy, 2026: _**Episode 067 - Nicolas Vuillamy: CTO, DevOps enthusiast, and open-source champion!**_
 
 [![Video](https://github.com/user-attachments/assets/9896613c-9eb1-49d6-8769-3a91c84a12fa)](https://www.youtube.com/watch?v=uNUMt4TFC7w)
 
