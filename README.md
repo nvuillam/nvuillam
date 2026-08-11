@@ -211,13 +211,13 @@ Collect information about dependencies between a github repo and other repositor
 
 ### Agenda
 
-#### Polish Dreamin '26
+#### [French Touch Dreamin '26](https://frenchtouchdreamin.com/)
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/611b1a0d-f966-4443-a641-c357a14ef099" />
+Paris, France — date TBC
 
-Refresh your full sandboxes without needing to reconfigure everything
+_More talks to be announced — follow me on [LinkedIn](https://www.linkedin.com/in/nicolas-vuillamy) to stay posted!_
 
-Wroclaw, Poland, 20/03/2026
+### Past events
 
 #### Dream Ole '26
 
@@ -225,9 +225,19 @@ Wroclaw, Poland, 20/03/2026
 
 Refresh your full sandboxes without needing to reconfigure everything
 
-Valencia, Spain, 27/03/2026
+Valencia, Spain — 27/03/2026
 
-### Past events
+---
+
+#### [Polish Dreamin '26](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/611b1a0d-f966-4443-a641-c357a14ef099" />
+
+Refresh your full sandboxes without needing to reconfigure everything
+
+Wroclaw, Poland — 20/03/2026
+
+---
 
 #### [French Touch Dreamin '25](https://frenchtouchdreamin.com/index.php/sessions/refresh-your-full-sandboxes-without-needing-to-reconfigure-everything/)
 
@@ -403,7 +413,7 @@ Paris, France
 
 ## Webinars & Podcasts
 
-- DevOps Diaries with Jack McCurdy, 2025: _**Episode 067 — Nicolas Vuillamy: CTO, DevOps enthusiast, and open-source champion!**_
+- DevOps Diaries with Jack McCurdy, 2026: _**Episode 067 — Nicolas Vuillamy: CTO, DevOps enthusiast, and open-source champion!**_
 
 [![Video](https://github.com/user-attachments/assets/9896613c-9eb1-49d6-8769-3a91c84a12fa)](https://www.youtube.com/watch?v=uNUMt4TFC7w)
 
