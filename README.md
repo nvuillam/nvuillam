@@ -217,46 +217,47 @@ Non-deterministic + deterministic Agentic Engineering: Delegate your Salesforce 
 
 Casablanca, Morocco - October 24, 2026
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c5ff790c-48c3-4673-8c19-f1db63ff8971" />
+
 ### Past events
 
 #### [Czech Dreamin '26](https://czechdreamin.com/)
-
-<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/fe84473e-508c-4e3d-a2b5-5eaaae24a575" />
 
 Refresh your full sandboxes without needing to reconfigure everything
 
 Prague, Czechia - May 29, 2026
 
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/fe84473e-508c-4e3d-a2b5-5eaaae24a575" />
+
 ---
 
 #### [Wir Sind Ohana '26](https://wirsindohana.de/)
-
-<img width="1217" height="913" alt="image" src="https://github.com/user-attachments/assets/a2aaf53d-4b33-4370-a225-2453fdf766e6" />
 
 When was the last time you refreshed your sandboxes to have fresh data?
 
 Berlin, Germany - May 8, 2026
 
+<img width="1217" height="913" alt="image" src="https://github.com/user-attachments/assets/a2aaf53d-4b33-4370-a225-2453fdf766e6" />
+
 ---
 
 #### Dream Ole '26
-
-<img width="1216" height="913" alt="image" src="https://github.com/user-attachments/assets/50c6fec2-4061-4ec4-b9f8-c9e4a8f2d7d1" />
 
 Refresh your full sandboxes without needing to reconfigure everything, with [Louise Lockie](https://www.linkedin.com/in/louise-lockie/)
 
 Valencia, Spain - March 27, 2026
 
+<img width="1216" height="913" alt="image" src="https://github.com/user-attachments/assets/50c6fec2-4061-4ec4-b9f8-c9e4a8f2d7d1" />
+
 ---
 
 #### [Polish Dreamin '26](https://coffeeforce.pl/dreamin/speaker/nicolas-vuillamy/)
 
-<img width="951" height="753" alt="image" src="https://github.com/user-attachments/assets/4cebe084-f7b6-4d6e-aa22-c3cb305222ea" />
-
-
 Refresh your full sandboxes without needing to reconfigure everything
 
 Wroclaw, Poland - March 20, 2026
+
+<img width="951" height="753" alt="image" src="https://github.com/user-attachments/assets/4cebe084-f7b6-4d6e-aa22-c3cb305222ea" />
 
 ---
 
