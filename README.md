@@ -219,14 +219,6 @@ Casablanca, Morocco - October 24, 2026
 
 ### Past events
 
-#### [London's Calling '26](https://www.londonscalling.net/speakers/nicolas-vuillamy/)
-
-Refresh your full sandboxes without needing to reconfigure everything
-
-London, UK - June 5, 2026
-
----
-
 #### [Czech Dreamin '26](https://czechdreamin.com/)
 
 Refresh your full sandboxes without needing to reconfigure everything
