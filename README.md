@@ -34,6 +34,9 @@ You can follow and contact me on:
 
 To support my open-source work, you can **star my repositorie**s, **follow me on github** or even [**sponsor me**](https://github.com/sponsors/nvuillam) :)
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/nvuillam?label=Sponsor%20me&logo=githubsponsors&color=EA4AAA)](https://github.com/sponsors/nvuillam)
+[![GitHub followers](https://img.shields.io/github/followers/nvuillam?label=Follow&style=social)](https://github.com/nvuillam)
+
 [![Buy Me a Coffee](https://github.com/user-attachments/assets/c9d701de-0f1c-4c9d-a905-f63f1acb4b95)](https://buymeacoffee.com/nicolasvuillamy)
 
 ---
@@ -46,9 +49,9 @@ I created and still maintain several open-source projects:
 | --- | --- | --- |
 | [MegaLinter](#megalinter) | Open-source CI/CD linter to ensure code consistency across projects | [![GitHub stars](https://img.shields.io/github/stars/megalinter/megalinter?cacheSeconds=3600)](https://github.com/megalinter/megalinter/stargazers/) |
 | [sfdx-hardis](#sfdx-hardis) | Salesforce DX plugin with many productivity commands | [![Downloads/week](https://img.shields.io/npm/dw/sfdx-hardis.svg)](https://npmjs.org/package/sfdx-hardis) |
-| [vscode-sfdx-hardis](#vscode-sfdx-hardis) | VS Code extension embedding `sfdx-hardis` for GUI workflows | [![Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) |
+| [vscode-sfdx-hardis](#vscode-sfdx-hardis) | VS Code extension embedding `sfdx-hardis` for GUI workflows | [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/NicolasVuillamy/vscode-sfdx-hardis?label=installs)](https://open-vsx.org/extension/NicolasVuillamy/vscode-sfdx-hardis) |
 | [npm-groovy-lint](#npm-groovy-lint) | Groovy linter, formatter and auto-fixer | [![Downloads/week](https://img.shields.io/npm/dw/npm-groovy-lint.svg)](https://npmjs.org/package/npm-groovy-lint) |
-| [vscode-groovy-lint](#vscode-groovy-lint) | VS Code extension wrapping `npm-groovy-lint` | [![Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) |
+| [vscode-groovy-lint](#vscode-groovy-lint) | VS Code extension wrapping `npm-groovy-lint` | [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/NicolasVuillamy/vscode-groovy-lint?label=installs)](https://open-vsx.org/extension/NicolasVuillamy/vscode-groovy-lint) |
 | [java-caller](#java-caller) | Library to deliver and execute Java apps from Node/npm | [![Downloads/week](https://img.shields.io/npm/dw/java-caller.svg)](https://www.npmjs.com/package/java-caller) |
 | [node-sarif-builder](#node-sarif-builder) | Module to build SARIF logs in JavaScript/TypeScript apps | [![Downloads/week](https://img.shields.io/npm/dw/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder) |
 | [markdown-table-formatter](#markdown-table-formatter) | Utility to automatically format markdown tables | [![Downloads/week](https://img.shields.io/npm/dw/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter) |
@@ -63,11 +66,12 @@ I also contribute to many others :)
 [![MegaLinter Banner](https://github.com/oxsecurity/megalinter/raw/main/docs/assets/images/megalinter-banner.png)](https://megalinter.io)
 
 ![GitHub release](https://img.shields.io/github/v/release/megalinter/megalinter?sort=semver)
-[![Docker Pulls](https://img.shields.io/badge/docker%20pulls-3.1M-blue)](https://megalinter.github.io/flavors/)
+[![Docker Pulls](https://img.shields.io/badge/docker%20pulls-26.8M-blue)](https://megalinter.io/flavors/)
 [![Downloads/week](https://img.shields.io/npm/dw/mega-linter-runner.svg)](https://npmjs.org/package/mega-linter-runner)
 [![GitHub stars](https://img.shields.io/github/stars/megalinter/megalinter?cacheSeconds=3600)](https://github.com/megalinter/megalinter/stargazers/)
 [![GitHub contributors](https://img.shields.io/github/contributors/oxsecurity/megalinter.svg)](https://gitHub.com/oxsecurity/megalinter/graphs/contributors/)
-[![MegaLinter](https://github.com/megalinter/megalinter/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/megalinter/megalinter/actions?query=workflow%3AMegaLinter+branch%3Amain)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=6181&color=informational&logo=slickpic)](https://github.com/oxsecurity/megalinter/blob/main/docs/used-by-stats.md)
+[![MegaLinter](https://github.com/oxsecurity/megalinter/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/oxsecurity/megalinter/actions/workflows/mega-linter.yml?query=branch%3Amain)
 
 MegaLinter is an **Open-Source** tool for **CI/CD workflows** that analyzes the **consistency of your code**, **IAC**, **configuration**, and **scripts** in your repository sources, to **ensure all your projects sources are clean and formatted** whatever IDE/toolbox is used by their developers, powered by [**OX Security**](https://www.ox.security/?ref=megalinter).
 
@@ -88,7 +92,7 @@ Supporting [**55** languages](https://megalinter.io/latest/supported-linters/#la
 ![Docker Pulls](https://img.shields.io/docker/pulls/hardisgroupcom/sfdx-hardis)
 [![GitHub stars](https://img.shields.io/github/stars/hardisgroupcom/sfdx-hardis?cacheSeconds=3600)](https://github.com/hardisgroupcom/sfdx-hardis/stargazers/)
 [![GitHub contributors](https://img.shields.io/github/contributors/hardisgroupcom/sfdx-hardis.svg)](https://gitHub.com/hardisgroupcom/sfdx-hardis/graphs/contributors/)
-[![Mega-Linter](https://github.com/hardisgroupcom/sfdx-hardis/workflows/Mega-Linter/badge.svg?branch=main)](https://github.com/hardisgroupcom/sfdx-hardis/actions?query=workflow%3AMega-Linter+branch%3Amain)
+[![MegaLinter](https://github.com/hardisgroupcom/sfdx-hardis/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/hardisgroupcom/sfdx-hardis/actions/workflows/mega-linter.yml?query=branch%3Amain)
 
 Salesforce DX plugin with lots of useful commands allowing to:
 
@@ -107,10 +111,11 @@ References:
 
 [![](https://github.com/hardisgroupcom/vscode-sfdx-hardis/raw/main/resources/extension-demo.gif)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-sfdx-hardis)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
-[![Mega-Linter](https://github.com/hardisgroupcom/vscode-sfdx-hardis/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
-[![GitHub stars](https://img.shields.io/github/stars/hardisgroupcom/vscode-sfdx-hardis.png?label=stars&cacheSeconds=3600)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/stargazers/)
+[![Visual Studio Marketplace Version](https://img.shields.io/github/v/release/hardisgroupcom/vscode-sfdx-hardis?label=VS%20Marketplace&color=blue)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
+[![Visual Studio Marketplace Installs](https://img.shields.io/badge/VS%20Code%20installs-14.3k-blue)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/NicolasVuillamy/vscode-sfdx-hardis?label=Open%20VSX%20installs)](https://open-vsx.org/extension/NicolasVuillamy/vscode-sfdx-hardis)
+[![Mega-Linter](https://github.com/hardisgroupcom/vscode-sfdx-hardis/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/actions/workflows/mega-linter.yml?query=branch%3Amain)
+[![GitHub stars](https://img.shields.io/github/stars/hardisgroupcom/vscode-sfdx-hardis?label=stars&cacheSeconds=3600)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/stargazers/)
 
 [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-sfdx-hardis) embedding sfdx-hardis but also other plugins, aiming to allow developers but also admins to work with clicks and not command lines
 
@@ -126,6 +131,7 @@ References:
 [![Mega-Linter](https://github.com/nvuillam/npm-groovy-lint/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/npm-groovy-lint/actions/workflows/mega-linter.yml)
 [![GitHub stars](https://img.shields.io/github/stars/nvuillam/npm-groovy-lint?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/npm-groovy-lint/stargazers/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nvuillam/npm-groovy-lint)](https://hub.docker.com/r/nvuillam/npm-groovy-lint)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=61&color=informational&logo=slickpic)](https://github.com/nvuillam/npm-groovy-lint/blob/main/docs/github-dependents-info.md)
 
 Groovy linter, formatter and auto-fixer
 
@@ -136,10 +142,10 @@ Groovy linter, formatter and auto-fixer
 
 ### [vscode-groovy-lint](https://github.com/nvuillam/vscode-groovy-lint/)
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NicolasVuillamy.vscode-groovy-lint)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
-[![Mega-Linter](https://github.com/nvuillam/vscode-groovy-lint/workflows/Mega-Linter/badge.svg?branch=master)](https://github.com/nvuillam/mega-linter#readme)
-[![GitHub stars](https://img.shields.io/github/stars/nvuillam/vscode-groovy-lint.png?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/vscode-groovy-lint/stargazers/)
+[![Visual Studio Marketplace Version](https://img.shields.io/github/v/release/nvuillam/vscode-groovy-lint?label=VS%20Marketplace&color=blue)](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/NicolasVuillamy/vscode-groovy-lint?label=Open%20VSX%20installs)](https://open-vsx.org/extension/NicolasVuillamy/vscode-groovy-lint)
+[![Mega-Linter](https://github.com/nvuillam/vscode-groovy-lint/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/vscode-groovy-lint/actions/workflows/mega-linter.yml?query=branch%3Amain)
+[![GitHub stars](https://img.shields.io/github/stars/nvuillam/vscode-groovy-lint?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/vscode-groovy-lint/stargazers/)
 
 [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) embedding npm-groovy-lint
 
@@ -153,7 +159,8 @@ Groovy linter, formatter and auto-fixer
 [![Version](https://img.shields.io/npm/v/java-caller.svg)](https://www.npmjs.com/package/java-caller)
 [![Downloads/week](https://img.shields.io/npm/dw/java-caller.svg)](https://npmjs.org/package/java-caller)
 [![Downloads/total](https://img.shields.io/npm/dt/java-caller.svg)](https://npmjs.org/package/java-caller)
-[![Mega-Linter](https://github.com/nvuillam/node-java-caller/workflows/Mega-Linter/badge.svg)](https://github.com/nvuillam/mega-linter#readme)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=172&color=informational&logo=slickpic)](https://github.com/nvuillam/node-java-caller/blob/main/docs/github-dependents-info.md)
+[![Mega-Linter](https://github.com/nvuillam/node-java-caller/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/node-java-caller/actions/workflows/mega-linter.yml?query=branch%3Amain)
 [![GitHub stars](https://img.shields.io/github/stars/nvuillam/node-java-caller?label=stars&cacheSeconds=3600)](https://GitHub.com/nvuillam/node-java-caller/stargazers/)
 
 Library to easily deliver and execute java applications using node/npm
@@ -167,7 +174,8 @@ Library to easily deliver and execute java applications using node/npm
 [![Version](https://img.shields.io/npm/v/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder)
 [![Downloads/week](https://img.shields.io/npm/dw/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder)
 [![Downloads/total](https://img.shields.io/npm/dt/node-sarif-builder.svg)](https://npmjs.org/package/node-sarif-builder)
-[![Mega-Linter](https://github.com/nvuillam/node-sarif-builder/workflows/MegaLinter/badge.svg?branch=main)](https://megalinter.github.io/)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=6556&color=informational&logo=slickpic)](https://github.com/nvuillam/node-sarif-builder/blob/main/docs/github-dependents-info.md)
+[![MegaLinter](https://github.com/nvuillam/node-sarif-builder/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/node-sarif-builder/actions/workflows/mega-linter.yml?query=branch%3Amain)
 [![GitHub stars](https://img.shields.io/github/stars/nvuillam/node-sarif-builder?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/node-sarif-builder/stargazers/)
 
 Module to easily build SARIF logs within a javascript / typescript application
@@ -183,7 +191,8 @@ Module to easily build SARIF logs within a javascript / typescript application
 [![Version](https://img.shields.io/npm/v/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
 [![Downloads/week](https://img.shields.io/npm/dw/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
 [![Downloads/total](https://img.shields.io/npm/dt/markdown-table-formatter.svg)](https://npmjs.org/package/markdown-table-formatter)
-[![MegaLinter](https://github.com/nvuillam/markdown-table-formatter/workflows/Mega-Linter/badge.svg)](https://github.com/nvuillam/mega-linter#readme)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=92&color=informational&logo=slickpic)](https://github.com/nvuillam/markdown-table-formatter/blob/main/docs/github-dependents-info.md)
+[![Mega-Linter](https://github.com/nvuillam/markdown-table-formatter/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/markdown-table-formatter/actions/workflows/mega-linter.yml?query=branch%3Amain)
 [![GitHub stars](https://img.shields.io/github/stars/nvuillam/markdown-table-formatter?label=stars&cacheSeconds=3600)](https://github.com/nvuillam/markdown-table-formatter/stargazers/)
 
 Utility to automatically format markdown tables in files
@@ -197,8 +206,9 @@ Utility to automatically format markdown tables in files
 [![PyPI](https://img.shields.io/pypi/v/github-dependents-info)](https://pypi.org/project/github-dependents-info/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/github-dependents-info)](https://pypi.org/project/github-dependents-info/)
 [![GitHub stars](https://img.shields.io/github/stars/nvuillam/github-dependents-info?cacheSeconds=3600)](https://github.com/nvuillam/github-dependents-info/stargazers/)
-[![Build status](https://github.com/nvuillam/github-dependents-info/workflows/build/badge.svg?branch=main&event=push)](https://github.com/nvuillam/github-dependents-info/actions?query=workflow%3Abuild)
-[![MegaLinter](https://github.com/nvuillam/github-dependents-info/workflows/MegaLinter/badge.svg?branch=main)](https://oxsecurity.github.io/megalinter)
+[![Used by](https://img.shields.io/static/v1?label=Used%20by&message=51&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info/blob/main/docs/github-dependents-info.md)
+[![Build status](https://github.com/nvuillam/github-dependents-info/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nvuillam/github-dependents-info/actions/workflows/build.yml?query=branch%3Amain)
+[![MegaLinter](https://github.com/nvuillam/github-dependents-info/actions/workflows/mega-linter.yml/badge.svg?branch=main)](https://github.com/nvuillam/github-dependents-info/actions/workflows/mega-linter.yml?query=branch%3Amain)
 [![License](https://img.shields.io/github/license/nvuillam/github-dependents-info)](https://github.com/nvuillam/github-dependents-info/blob/master/LICENSE)
 
 Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
@@ -521,12 +531,6 @@ _(paper, in [Programmez Magazine (FR)](https://www.programmez.com/))_
 ## Some stats
 
 [![committers.top badge](https://user-badge.committers.top/france_public/nvuillam.svg)](https://user-badge.committers.top/france_public/nvuillam)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvuillam&theme=dark&show_icons=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nvuillam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-  
-![nvuillam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvuillam&langs_count=8&theme=radical&layout=compact&card_width=445)
 
 [![Stackexchange profile](https://stackexchange.com/users/flair/8652527.png)](https://stackexchange.com/users/8652527)
 
